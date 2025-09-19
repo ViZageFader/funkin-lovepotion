@@ -73,7 +73,7 @@ The settings file can be found in the following places on the following systems:
 
 ## Building
 
-## WARNING
+### WARNING
 
 Currently the Makefile is unsupported until I can get the other platforms working, for now just copy the `src/` folder to the `/3ds/lovepotion/game` folder until I can build a `.3dsx` or `.cia` package.
 
