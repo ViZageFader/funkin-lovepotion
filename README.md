@@ -1,11 +1,11 @@
-# Friday Night Funkin' Rewritten
+# Friday Night Funkin' LÖVE Potion
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/HTV04/funkin-rewritten/total?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases)
 [![GitHub issues](https://img.shields.io/github/issues/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/issues)
 [![GitHub](https://img.shields.io/github/license/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/blob/main/LICENSE)
 
-[Friday Night Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) built on [LÖVE Potion](https://lovebrew.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch, 3DS, and Wii U (3DS and Wii U coming soon).
+[Friday Night Funkin' LÖVE Potion](https://github.com/ViZageFader/funkin-lovepotion) is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) and [Friday Night Funkin' Rewritten](https://github.com/htv04/funkin-rewritten) built on [LÖVE Potion](https://lovebrew.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch, 3DS, and Wii U (3DS and Wii U coming soon).
 
 Friday Night Funkin' Rewritten features:
 * A rewritten engine focused on performance and playability
@@ -120,4 +120,5 @@ As of writing, I (HTV04) have no affiliation with Funkin' Crew Inc. Please conta
 * p-sam for developing [love-nx](https://github.com/retronx-team/love-nx), used for the Nintendo Switch version of the game
 * Davidobot for developing [love.js](https://github.com/Davidobot/love.js), used for the Web version of the game
 * TurtleP for developing [LÖVE Potion](https://github.com/lovebrew/LovePotion), originally used for the Nintendo Switch version of the game
+* htv04 for the original [Friday Night Funkin' Rewritten](https://github.com/htv04/funkin-rewritten)
 * Funkin' Crew, for making such an awesome game
