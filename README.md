@@ -1,9 +1,9 @@
 # Friday Night Funkin' LÖVE Potion
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/HTV04/funkin-rewritten/total?style=flat-square)](https://github.com/HTV04/funkin-rewritten/releases)
-[![GitHub issues](https://img.shields.io/github/issues/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/issues)
-[![GitHub](https://img.shields.io/github/license/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/blob/main/LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ViZageFader/funkin-lovepotion?style=flat-square)](https://github.com/ViZageFader/funkin-lovepotion/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/ViZageFader/funkin-lovepotion/total?style=flat-square)](https://github.com/ViZageFader/funkin-lovepotion/releases)
+[![GitHub issues](https://img.shields.io/github/issues/ViZageFader/funkin-lovepotion?style=flat-square)](https://github.com/ViZageFader/funkin-lovepotion/issues)
+[![GitHub](https://img.shields.io/github/license/ViZageFader/funkin-lovepotion?style=flat-square)](https://github.com/ViZageFader/funkin-lovepotion/blob/main/LICENSE)
 
 [Friday Night Funkin' LÖVE Potion](https://github.com/ViZageFader/funkin-lovepotion) is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) and [Friday Night Funkin' Rewritten](https://github.com/htv04/funkin-rewritten) built on [LÖVE Potion](https://lovebrew.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch, 3DS, and Wii U (3DS and Wii U coming soon).
 
