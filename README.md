@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/issues)
 [![GitHub](https://img.shields.io/github/license/HTV04/funkin-rewritten?style=flat-square)](https://github.com/HTV04/funkin-rewritten/blob/main/LICENSE)
 
-[Friday Night Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) built on [LÖVE](https://love2d.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch.
+[Friday Night Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) is a rewrite of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) built on [LÖVE Potion](https://lovebrew.org/) for Windows, macOS, Linux, and Web platforms, as well as previously unsupported platforms, like the Nintendo Switch, 3DS, and Wii U (3DS and Wii U coming soon).
 
 Friday Night Funkin' Rewritten features:
 * A rewritten engine focused on performance and playability
@@ -72,6 +72,10 @@ The settings file can be found in the following places on the following systems:
 * Week 6 is a WIP.
 
 ## Building
+
+## WARNING
+
+Currently the Makefile is unsupported until I can get the other platforms working, for now just copy the `src/` folder to the `/3ds/lovepotion/game` folder until I can build a `.3dsx` or `.cia` package.
 
 ### Unix-like (macOS, Linux, etc.)
 
